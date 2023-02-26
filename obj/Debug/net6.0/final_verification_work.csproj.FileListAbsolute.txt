@@ -1,0 +1,15 @@
+C:\Programming\final_verification_work\bin\Debug\net6.0\final_verification_work.exe
+C:\Programming\final_verification_work\bin\Debug\net6.0\final_verification_work.deps.json
+C:\Programming\final_verification_work\bin\Debug\net6.0\final_verification_work.runtimeconfig.json
+C:\Programming\final_verification_work\bin\Debug\net6.0\final_verification_work.dll
+C:\Programming\final_verification_work\bin\Debug\net6.0\final_verification_work.pdb
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.csproj.AssemblyReference.cache
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.AssemblyInfoInputs.cache
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.AssemblyInfo.cs
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.csproj.CoreCompileInputs.cache
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.dll
+C:\Programming\final_verification_work\obj\Debug\net6.0\refint\final_verification_work.dll
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.pdb
+C:\Programming\final_verification_work\obj\Debug\net6.0\final_verification_work.genruntimeconfig.cache
+C:\Programming\final_verification_work\obj\Debug\net6.0\ref\final_verification_work.dll
