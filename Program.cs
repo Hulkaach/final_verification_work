@@ -6,28 +6,34 @@
 Console.Write("Введи размерность массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 string[] array = new string[size];
+string[] array2 = new string[size];
 for (int i = 0; i < array.Length; i++)
 {
-        Console.Write($"Введи {i + 1} слово масcива:");
-        array[i] = Console.ReadLine();
+    Console.Write($"Введи {i + 1} слово масcива :");
+    array[i] = Console.ReadLine();
 }
+Console.WriteLine("Введенный массив: ");
 Console.Write("[");
 for (int i = 0; i < array.Length; i++)
 {
-        Console.Write($"{array[i]} ");
-        
+    Console.Write($"{array[i]} ");
+
 }
-Console.Write("\b]"); 
+Console.Write("\b]");
+Console.WriteLine();
 
-// string FillArray(string[] arr, string n)
-// {
-//     string[] arr = new string[n];
-//     for (int i = 0; i < arr.Length; i++)
-//     {
-//         Console.Write($"Введи {i + 1} слово масcива:");
-//         array[i] = Console.ReadLine();
-//     }
-//     return arr[];
-// }
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i].Length <= 3)
+    {
+        array2[i]=array[i];
+    }
+}
+Console.WriteLine("Сортированный массив: ");
+Console.Write("[");
+for (int i = 0; i < array.Length; i++)
+{
+    Console.Write($"{array2[i]} ");
 
-// FillArray(array, size);
+}
+Console.Write("\b]");
